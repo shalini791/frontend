@@ -20,7 +20,7 @@
 				<div class="col-sm-3">
 					<h4 class="title-widget">Contact us</h4>
 					<p><b>BPTP princess park<br>
-					Sector-86<br>
+					Sector-23<br>
 					Faridabad,Haryana<br>
 					INDIA</b></p>
 					<!--
@@ -52,11 +52,11 @@
 				<div class="col-sm-3">
 					<h4 class="title-widget">Category</h4>
 					<div class="category">
-						<a href="#" class="zoom">TV Appliances</a>
-						<a href="#" class="zoom">PCs</a>
-						<a href="#" class="zoom">Smartphones</a>
-						<a href="#" class="zoom">Bluetooth Headsets</a>
-						<a href="#" class="zoom">pendrives</a>         
+						<a href="#" class="zoom">Girls Wear</a>
+						<a href="#" class="zoom">Mens Wear</a>
+						<a href="#" class="zoom">Wrist Watch</a>
+						<a href="#" class="zoom">Girls Footwear</a>
+						        
 					</div>
 				</div>
 				<div class="col-sm-3">
